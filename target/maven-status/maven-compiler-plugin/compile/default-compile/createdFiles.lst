@@ -1,0 +1,7 @@
+br/com/main/model/CreditTransaction.class
+br/com/main/OfxGenerator.class
+br/com/main/model/CreditTransaction$CreditTransactionBuilder.class
+br/com/main/Launcher.class
+br/com/main/util/FileUtils.class
+br/com/main/util/CurrencyUtils.class
+br/com/main/PdfReader.class
